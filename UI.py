@@ -246,5 +246,5 @@ class webcam:
 
 
 if __name__ == "__main__":
-    path = os.getcwd() + "/main"
+    path = os.getcwd()
     cam = webcam(path)
